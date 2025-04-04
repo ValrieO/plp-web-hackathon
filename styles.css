@@ -39,7 +39,7 @@ header nav ul li a:hover {
 /* Hero Section */
 .hero {
     background: url('hero-bg.jpg') no-repeat center center/cover;
-    color: #fff;
+    color: #070707;
     text-align: center;
     padding: 5rem 1rem;
 }
